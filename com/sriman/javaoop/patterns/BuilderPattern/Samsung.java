@@ -12,5 +12,5 @@ public class Samsung extends Company {
     @Override
     public String pack() {
         return "Samsung CD";
-    }
+    }//a
 }
