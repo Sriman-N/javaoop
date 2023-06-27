@@ -55,7 +55,7 @@ class EmployeeRecord implements Prototype{
 }//End of EmployeeRecord class.
 
 
-class prototypepattern {
+class PrototypePatternDemo {
 
     public static void main(String[] args) throws IOException {
 
